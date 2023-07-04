@@ -13,4 +13,6 @@ This Python script automates two majors aspects required when fulfilling a expen
   --
   !Only essential item is that you store the file in your /documents file in windows! Or change the filepaths to suite your desired setup.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xGrSHztOg-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://youtu.be/xGrSHztOg-A
+![image](https://github.com/tvp227/xpncAuto/assets/46229276/2419006f-3efc-41d4-a89a-fe3489ecf9da)
