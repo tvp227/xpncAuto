@@ -49,10 +49,6 @@ Check out the demo video on [YouTube](https://youtu.be/xGrSHztOg-A) to see xpncA
 
 Contributions are welcome! If you have ideas for improvements or find any issues, please open an [issue](https://github.com/tvp227/xpncAuto/issues) or submit a [pull request](https://github.com/tvp227/xpncAuto/pulls).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Disclaimer:** Ensure that you have the necessary permissions to use and modify receipts. The authors are not responsible for any misuse of this script. Use it responsibly and in accordance with applicable laws and regulations.
