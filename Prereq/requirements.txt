@@ -1,0 +1,10 @@
+openpyxl
+datetime
+subprocess
+fpdf
+Pillow
+pytesseract
+regex
+tkinter
+getpass
+glob3
